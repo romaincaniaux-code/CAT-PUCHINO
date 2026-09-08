@@ -1,0 +1,58 @@
+nav
+{
+    background-color: green;
+    background-position: center;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 5px;
+}
+
+nav a
+{
+color: white;
+}
+
+p
+{
+    text-align: center;
+}
+
+footer
+{
+    background-color: green;
+    background-position: center;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 5px;
+}
+
+footer p 
+{
+    color: white;    
+}
+
+a 
+{
+text-align: center;
+}
+
+.lien_boisson
+{
+text-align: center;
+}
+h1
+{
+    text-align: center;
+}
+
+.boissons
+{
+    background-color: cadetblue;
+    text-align: center;
+}
+
+.chat-card
+{
+    background-color: cadetblue;
+    text-align: center;
+}
